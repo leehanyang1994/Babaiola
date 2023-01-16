@@ -1197,19 +1197,16 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6H2y5hDZ58X" displaytext="单元二：我的妹妹长大了！" expand="true" type="slide">
+        <slidelink slideid="_player.6H2y5hDZ58X" displaytext="单元一：我爱爸爸和妈妈" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6H2y5hDZ58X.6CnDa8uRSxL" displaytext="首页" expand="false" type="slide" />
             <slidelink slideid="_player.6H2y5hDZ58X.6mxQf68Dx6G" displaytext="封面" expand="false" type="slide" />
-            <slidelink slideid="_player.6H2y5hDZ58X.6CODpB9skTM" displaytext="P1" expand="false" type="slide" />
-            <slidelink slideid="_player.6H2y5hDZ58X.6MftXQo8kCC" displaytext="P2" expand="false" type="slide" />
-            <slidelink slideid="_player.6H2y5hDZ58X.6OPxmqaY4uS" displaytext="P3" expand="false" type="slide" />
-            <slidelink slideid="_player.6H2y5hDZ58X.5bUQ58Jvj3v" displaytext="P4" expand="false" type="slide" />
-            <slidelink slideid="_player.6H2y5hDZ58X.6Aa7LVzn44c" displaytext="P5" expand="false" type="slide" />
-            <slidelink slideid="_player.6H2y5hDZ58X.5nvivaQo6k4" displaytext="P6" expand="false" type="slide" />
-            <slidelink slideid="_player.6H2y5hDZ58X.6Rbsy4cskwT" displaytext="P7" expand="false" type="slide" />
-            <slidelink slideid="_player.6H2y5hDZ58X.68BrY1VOQxY" displaytext="P8" expand="false" type="slide" />
-            <slidelink slideid="_player.6H2y5hDZ58X.66n9VaUljpL" displaytext="全课文" expand="false" type="slide" />
+            <slidelink slideid="_player.6H2y5hDZ58X.6r5CI2QPses" displaytext="P1" expand="false" type="slide" />
+            <slidelink slideid="_player.6H2y5hDZ58X.5crrBwFaOEZ" displaytext="P2" expand="false" type="slide" />
+            <slidelink slideid="_player.6H2y5hDZ58X.65jTy72E3T1" displaytext="P3" expand="false" type="slide" />
+            <slidelink slideid="_player.6H2y5hDZ58X.62iNCWeqX02" displaytext="P4" expand="false" type="slide" />
+            <slidelink slideid="_player.6H2y5hDZ58X.6oBS1Mw84ct" displaytext="P5" expand="false" type="slide" />
+            <slidelink slideid="_player.6H2y5hDZ58X.5f7W4sjSVtY" displaytext="全课文" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
