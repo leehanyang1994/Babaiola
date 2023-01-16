@@ -14,6 +14,11 @@ body{
     margin: auto;
 }
 
+.notice { /*for important notes under PDF player*/
+    color:red;
+    font-weight: 900;
+}
+
 nav .topnav{
     width:100%;
     background-color: white;
